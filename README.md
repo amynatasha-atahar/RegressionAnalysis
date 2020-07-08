@@ -8,3 +8,6 @@ The aim of the project is to compare four types of regression models in predicti
 
 # Conclusion
 The best performance of the algorithm for this project is **K-Neighbors Regressor (KNR)** where the value of RMSLE is the lowest compared to other algorithms.
+
+# Reference
+* Patil, A., Musale, K. & Rao, B. P. (2015). Bike sharing demand prediction using randomforests. International Journal of Innovative Science, Engineering and Technology, 2 (4): 1218 – 1223.
